@@ -4,34 +4,37 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Social Media App</title>
+  <title>Salaar</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f0f0f0;
+      background-image: url('https://in.pinterest.com/pin/371758144258758898/'); /* Insert the URL of the Salaar background image */
+      background-size: cover;
+      background-position: center;
+      color: white;
     }
 
     /* Navigation Bar */
     .navbar {
-      background-color: #3b5998;
-      color: white;
+      background-color: rgba(0, 0, 0, 0.7);
       padding: 15px;
       text-align: center;
     }
 
     .navbar h1 {
       margin: 0;
-      font-size: 24px;
+      font-size: 32px;
+      color: #FFD700; /* Gold color for the Salaar title */
     }
 
     /* Hero Section */
     .hero {
       text-align: center;
       padding: 100px 20px;
-      background-color: #fff;
-      color: #333;
+      background-color: rgba(0, 0, 0, 0.5); /* Transparent black overlay */
+      color: white;
     }
 
     .hero h2 {
@@ -68,7 +71,7 @@
     .footer {
       text-align: center;
       padding: 10px;
-      background-color: #3b5998;
+      background-color: rgba(0, 0, 0, 0.7);
       color: white;
       position: fixed;
       width: 100%;
@@ -80,20 +83,20 @@
 
   <!-- Navbar -->
   <div class="navbar">
-    <h1>Social Media App</h1>
+    <h1>Salaar</h1>
   </div>
 
   <!-- Hero Section -->
   <div class="hero">
-    <h2>Connect with Friends and the World</h2>
-    <p>Sign up or log in to share and connect with others.</p>
+    <h2>Welcome to the Salaar Fan Community</h2>
+    <p>Sign up or log in to join the exclusive fan club.</p>
     <button class="btn btn-signup" onclick="window.location.href='signup.jsp'">Sign Up</button>
     <button class="btn btn-login" onclick="window.location.href='login.jsp'">Log In</button>
   </div>
 
   <!-- Footer -->
   <div class="footer">
-    <p>&copy; 2024 Social Media App. All Rights Reserved.</p>
+    <p>&copy; 2024 Salaar Fan Club. All Rights Reserved.</p>
   </div>
 
 </body>
