@@ -10,7 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('https://in.pinterest.com/pin/371758144258758898.jpg'); /* Insert the URL of the Salaar background image */
+      background-image: url('https://i.pinimg.com/1200x/72/1e/f4/721ef4880d9ad97244caa577a7272924.jpg'); /* Insert the URL of the Salaar background image */
       background-size: cover;
       background-position: center;
       color: white;
