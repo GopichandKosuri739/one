@@ -10,7 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('https://i.pinimg.com/1200x/72/1e/f4/721ef4880d9ad97244caa577a7272924.jpg'); /* Insert the URL of the Salaar background image */
+      background-image: url('https://i.pinimg.com/736x/99/e2/ac/99e2ac63b1d61a30bbe2a0517e7b1017.jpg'); /* Insert the URL of the Salaar background image */
       background-size: cover;
       background-position: center;
       color: white;
